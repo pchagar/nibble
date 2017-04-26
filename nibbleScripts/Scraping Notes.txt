@@ -1,0 +1,8 @@
+Scraping Notes
+
+Scraping----------------------------------------------
+- Looking for <body> and <span> tags and possibly text inside of <div>
+- Check if <span> contains string greater than length of one and not whitespace
+
+Mongo----------------------------------------------
+- 

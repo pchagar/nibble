@@ -1,0 +1,24 @@
+{
+  "name": "nibble",
+  "version": "1.0.0",
+  "description": "nom nom nom",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Hello World');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://chagarp@bitbucket.org/chagarp/nibble.git"
+  },
+  "keywords": [
+    "nom",
+    "nibble",
+    "nibs"
+  ],
+  "author": "Pardip Singh Chagar",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/chagarp/nibble#readme",
+  "dependencies": {
+    "mongodb": "^2.2.5"
+  }
+}
